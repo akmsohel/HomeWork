@@ -1,5 +1,10 @@
 Manik 
 Zakaria
 Yesrat
+<<<<<<< HEAD
 I am Sayeedin
 Asif
+=======
+Sayeedin
+My name is Asif
+>>>>>>> refs/remotes/origin/master
